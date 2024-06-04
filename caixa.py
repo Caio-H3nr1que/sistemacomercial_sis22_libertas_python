@@ -45,7 +45,7 @@ def novo_caixa():
 
         #pegar os dados do JSON
         data = caixa["data"]
-        descricao = caixa["email"]
+        descricao = caixa["descricao"]
         valor = caixa["valor"]
         debitocredito = caixa["debitocredito"]
 
